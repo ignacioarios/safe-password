@@ -33,7 +33,7 @@ def main():
     
     password = generate_password(length, include_uppercase, include_numbers, include_symbols)
     
-    print(f"Tu contraseña segura es: {password}. Gracias por usar SafePasswor encoded by n.rivers <3")
+    print(f"Tu contraseña segura es: {password}. Gracias por usar SafePassword encoded by n.rivers <3")
 
 if __name__ == "__main__":
     main()
